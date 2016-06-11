@@ -1,4 +1,4 @@
-## A Java Library to Manage Digital Repository Files with the Cloud Storage
+## A Library to Manage Web Archive Files in Cloud Storage
 
 This project serves as a client library for manage files in Fedora 4 with cloud storage providers (e.g. Amazon S3, and etc)
 
