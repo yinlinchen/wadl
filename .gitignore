@@ -1,0 +1,3 @@
+target/*
+fedora-cloud-tool/target/*
+.DS_Store
