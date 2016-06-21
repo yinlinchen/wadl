@@ -7,7 +7,7 @@ This project serves as a client library for manage files in Fedora 4 with cloud 
  * Restore a binary object from cloud storage
 
 ## Concept
-<img src="https://raw.githubusercontent.com/ylchenvt/wadl/master/img/concept.png?token=AAOzyxBJAIv_2KW5Wc3Wb3-ya7GtmgY_ks5XZBIowA%3D%3D"  height="400" />
+<img src="http://ml.cc.vt.edu/concept.png"  height="400" />
 
 ## Build
 
