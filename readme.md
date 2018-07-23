@@ -30,7 +30,8 @@ To build this projects use this command
 [example code](https://github.com/ylchenvt/wadl/tree/master/example)
 
 ## Generate Standalone Javadocs
-
+	```
 	$ cd fedora-cloud-tool
 	$ mvn javadoc:javadoc
 	$ open target/site/apidocs/index.html
+	```
