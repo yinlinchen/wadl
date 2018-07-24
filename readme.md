@@ -35,4 +35,3 @@ To build this projects use this command
 	$ mvn javadoc:javadoc
 	$ open target/site/apidocs/index.html
 
-(:star:) test
