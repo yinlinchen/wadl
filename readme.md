@@ -34,3 +34,5 @@ To build this projects use this command
 	$ cd fedora-cloud-tool
 	$ mvn javadoc:javadoc
 	$ open target/site/apidocs/index.html
+
+(:star:) test
