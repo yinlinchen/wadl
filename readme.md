@@ -3,7 +3,7 @@
 This project serves as a client library for manage files in Fedora 4 with cloud storage providers (e.g. Amazon S3, and etc)
 
 * Operations:
- * Move a binary file into cloud storage
+ * Move a binary file into clouds storage
  * Restore a binary object from cloud storage
 
 ## Concept
